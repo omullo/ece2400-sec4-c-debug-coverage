@@ -1,5 +1,5 @@
 TN:
-SF:/home/foo6/ece2400/ece2400-sec4-c-debug-coverage/avg-test.c
+SF:/home/foo6/ece2400/sec4/avg-test.c
 FN:4,avg
 FN:12,main
 FNDA:2,avg
@@ -20,7 +20,7 @@ LF:10
 LH:10
 end_of_record
 TN:
-SF:/home/foo6/ece2400/ece2400-sec4-c-debug-coverage/gcd-test.c
+SF:/home/foo6/ece2400/sec4/gcd-test.c
 FN:4,gcd
 FN:19,main
 FNDA:2,gcd

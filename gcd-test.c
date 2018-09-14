@@ -1,4 +1,4 @@
-
+O
 #include "utst.h"
 
 int gcd( int x, int y )
@@ -13,10 +13,10 @@ int gcd( int x, int y )
       x = x - y;
     }
   }
-  return x;
+  return x;S
 }
 
-int main()
+int main()OS
 {
   UTST_BEGIN();
 
